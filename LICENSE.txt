@@ -1,0 +1,43 @@
+Oraxen Converter Personal Source License (OCPSL) Version 1.0
+
+Copyright © 2025 Philippe Cloutier Aka Phil24k. All rights reserved.
+
+1. Definitions
+
+Software means the source code, binaries, assets, and documentation in the repository identified as “Oraxen Converter”.You (or Your) means the individual who accepts, acquires, or uses the Software.
+
+2. Grant of Rights
+
+Subject to the terms and conditions of this License, the copyright holder hereby grants You a non‑exclusive, non‑transferable, worldwide, royalty‑free right to view and run an unmodified copy of the Software for Your own personal, non‑commercial purposes only.
+
+3. Restrictions
+
+You shall not:
+
+Distribute or make available the Software or any Derivative Works, in whole or in part, to any third party, whether modified or unmodified, whether gratis or for a fee.
+
+Use the Software, or any portion thereof, in commercial, educational, governmental, or institutional settings, or in any manner intended for or resulting in monetary gain.
+
+Remove or alter any copyright, trademark, or other proprietary notices contained in the Software.
+
+4. Intellectual‑Property Notices
+
+You must retain, unaltered, all copyright notices and this License in every copy of the Software that You possess.
+
+5. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON‑INFRINGEMENT. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH YOU.
+
+6. Limitation of Liability
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+7. Termination
+
+This License automatically terminates if You breach any of its terms. Upon termination, You must cease all use of the Software and destroy all copies in Your possession. Sections 3‑6 shall survive any termination.
+
+8. Governing Law and Jurisdiction
+
+This License shall be governed by and construed in accordance with the laws of the Province of Québec and the federal laws of Canada applicable therein, without regard to its conflict‑of‑law provisions. Any dispute arising under this License shall be submitted to the exclusive jurisdiction of the courts located in Montréal, Québec, Canada.
+
+By using or copying any part of the Software, You acknowledge that You have read, understood, and agree to be bound by the terms and conditions of this License.
