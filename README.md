@@ -1,6 +1,8 @@
 # OraxenToGeyser-Converter
 
-![geyserconverter](https://github.com/user-attachments/assets/3368abdc-11e3-4e4e-925a-0da6bcf96932)
+
+<img src="https://github.com/user-attachments/assets/3368abdc-11e3-4e4e-925a-0da6bcf96932" alt="geyserconverter" width="150"/>
+
 
 
 Converter your oraxen folder to a bedrock folder
